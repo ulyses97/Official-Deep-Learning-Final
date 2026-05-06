@@ -7,6 +7,10 @@ Final deep learning project where we compare and change parameters on YOLO segme
 The converted YOLO format dataset used in this project is avalialbe here in this link 
 https://drive.google.com/file/d/1lV8izgPy237dOdAs0H5UhNDijqjbYx0c/view?usp=sharing
 
+Here is the actual link of the dataset which is from roboflow and this would be downloaded as COCO segmentation format and then you would need to convert
+into YOLO format which is already done with the google drive link but if you wanted to try and convert it here is the link. You would need to make an account on Roboflow to download the dataset:
+https://universe.roboflow.com/sankritya-rai-cldft/roadvis-segmentation
+
 After downloading extract the zip file and rename the folder to `roadvis_yolo`
 
 The folder should look like this:
@@ -28,7 +32,7 @@ A external dataset was used to test how well the model would perfom to new data
 
 The external dataset that was used is **Pothole Detection v9i YOLOv8**.
 
-Here is the link to the Roboflow website where the dataset is located at:
+Here is the link to the Roboflow website where the dataset is located at and this would be downloaded in YOLOv8 format and also you will need to create an account:
 https://universe.roboflow.com/imacs-pothole-detection-wo8mu/pothole-detection-irkz9/dataset/9
 
 This dataset was downloaded from Roboflow and has its own `train`, `valid`, and `test` folders along with a `data.yaml` file.
