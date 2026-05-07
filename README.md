@@ -43,3 +43,13 @@ The notebook has the external dataset labeled as:
 
 ```python
 external_dataset_name = "Pothole Detection v9i YOLOv8"
+```
+
+## Figures 
+In the figures section are some of the plots that were given. Not all the plots are shown but rather it is 
+the best results being tested. 
+
+## Saved Results
+In the saved results folder are the results that we were able to acheive from our testing. The files here are a summary of 
+all the test we did and with the different parameters changed. Then the results of our best model being tested.
+
