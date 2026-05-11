@@ -5,12 +5,18 @@ Final deep learning project where we compare and change parameters on YOLO segme
 
 ## Dataset Setup 
 The converted YOLO format dataset used in this project is avalialbe here in this link 
-https://drive.google.com/file/d/1lV8izgPy237dOdAs0H5UhNDijqjbYx0c/view?usp=sharing
+https://drive.google.com/file/d/1RHbNy7hZnzjcwUE8RkN2Rtk3ZTZnVoex/view?usp=sharing
+
+When you finish downloading go into the `data.yamal` and change the pathing to where the files are located on your computer
+`path: C:/Users/*change_to_your_path*/roadvis_yolo` change it to the correct path.
 
 Here is the actual link of the dataset which is from roboflow and this would be downloaded as COCO segmentation format and then you would need to convert
 into YOLO format which is already done with the google drive link but if you wanted to try and convert it here is the link. You would need to make an account on Roboflow to download the dataset:
 
 https://universe.roboflow.com/sankritya-rai-cldft/roadvis-segmentation
+
+If you decide to download the dataset on do the conversion on your own you do not need to worry about the pathing of the 
+`data.yamal` it will have the correct path if you download it on your own. 
 
 After downloading extract the zip file and rename the folder to `roadvis_yolo`
 
