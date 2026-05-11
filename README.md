@@ -1,5 +1,6 @@
 # Official-Deep-Learning-Final
 Final deep learning project where we compare and change parameters on YOLO segmentation models for pothole detection 
+in order to run our code you will need to have jupyter notebook and download the raw jupyter notebook
 
 
 
