@@ -35,8 +35,10 @@ roadvis_yolo/
     ├── val/
     └── test/
 ```
-## External Dataset Evaluation
-A external dataset was used to test how well the model would perfom to new data
+## Optinal:External Dataset Evaluation
+A external dataset can be used if need be to test out the model on another dataset. The `roadvis_yolo` has a test folder
+that already runs a test to see how well it performs on unseen data. This is just extra if you would like to use another dataset.
+
 
 The external dataset that was used is **Pothole Detection v9i YOLOv8**.
 
