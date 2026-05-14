@@ -62,3 +62,6 @@ the best results being tested.
 In the saved results folder are the results that we were able to acheive from our testing. The files here are a summary of 
 all the test we did and with the different parameters changed. Then the results of our best model being tested.
 
+## Contributors 
+Ulyses Ortega, Richard Yam Ciau, and Duc Nguyen
+
